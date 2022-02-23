@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, my name is Lee :wave:
 
-<!--
-**lee-cooper/lee-cooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Web Developer with a specialization in UI / UX Design, fluid layouts, and Accessibility.
 
-Here are some ideas to get you started:
+## What am I working on? 🔭
+- My personal website, [cooperweb.dev](https://www.cooperweb.dev/)
+- An [Angular application](https://few-100.vercel.app/home) to help developers learn Typescript and Angular
+- Websites for local businesses / clients in need of a web presence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m currently learning 🌱
+-  Latest trends and techniques in CSS and UI / UX Design
+-  SCSS
+-  Tailwind
+-  CSS Modules
+-  CSS in JS
