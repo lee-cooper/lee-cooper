@@ -9,7 +9,5 @@ I'm a Web Developer with a specialization in UI / UX Design, fluid layouts, and 
 
 ## What I’m currently learning 🌱
 -  Latest trends and techniques in CSS and UI / UX Design
--  SCSS
--  Tailwind
--  CSS Modules
--  CSS in JS
+-  SCSS / Tailwind
+-  CSS Houdini
