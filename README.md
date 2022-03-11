@@ -2,7 +2,7 @@
 
 I'm a Web Developer with a specialization in UI / UX Design, fluid layouts, and Accessibility.
 
-Fortune 100 Developer @[Progressive Insurance](https://www.progressive.com/) since 2016.
+Developer @[Progressive Insurance](https://www.progressive.com/) since 2016.
 
 ## What am I working on? 🔭
 - My personal website, [cooperweb.dev](https://www.cooperweb.dev/)
