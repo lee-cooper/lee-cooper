@@ -9,7 +9,9 @@ Developer @[Progressive Insurance](https://www.progressive.com/) since 2016.
 - An [Angular application](https://few-100.vercel.app/home) to teach developers Typescript and Angular 
 
 ## What I’m currently learning 🌱
--  Latest trends and techniques in CSS and UI / UX Design
+-  Tailwind CSS
+-  CSS Modules
+-  SCSS
 
 ## Technologies
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
