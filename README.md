@@ -1,16 +1,18 @@
 # Hi, my name is Lee <img src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="35" height="35" />
 
-I'm a Software Developer with a specialization in UI / UX Design, Responsive Design, and Accessibility.
+I'm a Web Developer with a specialization in UI / UX, Responsive Design, and Accessibility.
 
-Developer @[Progressive Insurance](https://www.progressive.com/) since 2016.
+Developer @[Progressive Insurance](https://www.progressive.com/).
 
 ## What am I working on? 🔭
 - My personal website, [cooperweb.dev](https://www.cooperweb.dev/)
-- An [Angular application](https://few-100.vercel.app/home) to teach developers Typescript and Angular 
+- Design System for Hypertheory Campground Training Site
+- Design System for 
 
 ## What I’m currently learning 🌱
--  Tailwind CSS
--  SCSS
+-  UI / UX Design
+-  Figma
+-  Design System Components
 
 ## Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
