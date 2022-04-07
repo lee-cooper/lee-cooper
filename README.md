@@ -7,7 +7,7 @@ Developer @[Progressive Insurance](https://www.progressive.com/).
 ## What am I working on? 🔭
 - My personal website, [cooperweb.dev](https://www.cooperweb.dev/)
 - Design System for Hypertheory Campground Training Site
-- Design System for 
+- Design System for new Redux + Angular Training Site
 
 ## What I’m currently learning 🌱
 -  UI / UX Design
