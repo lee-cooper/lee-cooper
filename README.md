@@ -10,7 +10,7 @@ Developer @[Progressive Insurance](https://www.progressive.com/).
 - Design System for new Redux + Angular Training Site
 
 ## What I’m currently learning 🌱
--  UI / UX Design
+-  UI / UX Design via the [Google UX Design Certificate](https://grow.google/certificates/ux-design/#?modal_active=none) course
 -  Figma
 -  Design System Components
 
