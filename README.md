@@ -11,8 +11,8 @@ Developer @[Progressive Insurance](https://www.progressive.com/).
 
 ## What I’m currently learning 🌱
 -  UI / UX Design via the [Google UX Design Certificate](https://grow.google/certificates/ux-design/#?modal_active=none) course
--  Figma
--  Design System Components
+-  Design System Components w/ React
+-  Ruby on Rails
 
 ## Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
