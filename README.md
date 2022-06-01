@@ -1,17 +1,12 @@
 # Hi, my name is Lee <img src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="35" height="35" />
 
-I'm a Web Developer with a specialization in UI / UX, Responsive Design, and Accessibility.
+I'm a Full Stack Web Developer with a specialization in Front End Development, UI / UX Design, and Accessibility.
 
 Developer @[Progressive Insurance](https://www.progressive.com/).
 
 ## What am I working on? 🔭
 - My personal website, [cooperweb.dev](https://www.cooperweb.dev/)
-- Design System for new Redux + Angular Training Site
-
-## What I’m currently learning 🌱
--  Ruby on Rails
--  UI / UX Design
--  Design System Components w/ React
+- Hypertheory Labs Website
 
 ## Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
