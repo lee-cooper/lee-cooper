@@ -7,6 +7,7 @@ Developer @[Progressive Insurance](https://www.progressive.com/).
 ## What am I working on? 🔭
 - My personal website, [cooperweb.dev](https://www.cooperweb.dev/)
 - Hypertheory Labs Website
+- Client's Architecture Website
 
 ## Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
